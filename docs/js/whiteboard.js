@@ -30,13 +30,14 @@ var Whiteboard = function(){
      */
     var colors = {
         'black': '000000',
+        'pink':'DF007D',
         'red': 'e64848',
         'green': '53a553',
         'blue': '248ad2',
         'yellow': 'ffff00',
         'orange': 'eab149',
         'brown': 'b17c50',
-        'load': [ 'black', 'red', 'green', 'blue', 'yellow', 'orange', 'brown' ]
+        'load': [ 'black', 'pink' ,'red', 'green', 'blue', 'yellow', 'orange', 'brown' ]
     }
 
     /**
